@@ -12,8 +12,8 @@ cat << EOF
  |_____|_| |_| |\___|\___|\__| /_/    \_\_|    |_|\_\ 
             _/ |                                     
            |__/                 Version : 1.0
-                             Created By : Mehedi Shakeel
-                                YouTube : yt/mehedishakeel                   
+                             Created By : Cyber Defend X
+                                YouTube : yt/CyberDefendX                   
 
 EOF
 sleep 2
