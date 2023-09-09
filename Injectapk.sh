@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inject Payload in Android APK
-# Created By Mehedi Shakeel
+# Created By Cyber Defend X
 clear
 cat << EOF
 
